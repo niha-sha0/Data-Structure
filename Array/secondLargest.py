@@ -24,4 +24,4 @@ for i in range(n):
 largest(li, n)
 
 Time Complexity: O(n)
-Space Complexity: O(n)
+Space Complexity: O(1)
